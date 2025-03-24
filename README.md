@@ -28,9 +28,11 @@ PhishCatcher is a client-side phishing detection tool designed to protect users 
    env\Scripts\activate      # On Windows
 
 3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 
 4. Run the application:
+   ```bash
   python app.py
 
