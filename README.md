@@ -34,5 +34,5 @@ PhishCatcher is a client-side phishing detection tool designed to protect users 
 
 4. Run the application:
    ```bash
-  python app.py
+   python app.py
 
