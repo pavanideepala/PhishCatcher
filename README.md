@@ -21,16 +21,16 @@ PhishCatcher is a client-side phishing detection tool designed to protect users 
    git clone https://github.com/yourusername/PhishCatcher.git
    cd PhishCatcher
    
-2.Create and activate a virtual environment:
-```bash
-python -m venv env
-source env/bin/activate   # On Mac/Linux
-env\Scripts\activate      # On Windows
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv env
+   source env/bin/activate   # On Mac/Linux
+   env\Scripts\activate      # On Windows
 
-3.Install dependencies:
-```bash
-pip install -r requirements.txt
+3. Install dependencies:
+   pip install -r requirements.txt
 
-4.Run the application:
-```bash
-python app.py
+
+4. Run the application:
+  python app.py
+
